@@ -1,7 +1,7 @@
 # 2-Player-Chess-Game
 
 ## Introduction ##
-Created a 2-player chess game using data structures in C.
+My very first coding project. Please do not mind coding style and efficiency. <br>Created a 2-player chess game using data structures in C.
 
 ` Data Structure used: **“Linked List”**`
 
